@@ -71,7 +71,7 @@ In the dim, dark past (e.g. at university):
 
 <p> 
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" /> 
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c++&logoColor=white&style=for-the-badge" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c-plus-plus&logoColor=white&style=for-the-badge" />
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge" />     
   <img alt="Perl" src="https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white&style=for-the-badge" />     
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />      
