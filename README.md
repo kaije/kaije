@@ -57,7 +57,7 @@ Other things I've used in the last three years:
 <p> 
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" /> 
   <img alt="Bamboo" src="https://img.shields.io/badge/Bamboo-0052CC?logo=bamboo&logoColor=white&style=for-the-badge" />   
-  <!--<img alt="Grails" src="https://img.shields.io/badge/Grails?logo=grails&logoColor=green&style=for-the-badge" />    -->
+  <img alt="Grails" src="https://img.shields.io/badge/Grails?logo=grails&logoColor=white&style=for-the-badge" />
   <img alt="Groovy" src="https://img.shields.io/badge/Groovy-4298B8?logo=groovy&logoColor=white&style=for-the-badge" />   
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />     
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" /> 
