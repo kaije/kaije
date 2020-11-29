@@ -64,6 +64,7 @@ Other things I've used in the last three years:
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" /> 
   <img alt="Bamboo" src="https://img.shields.io/badge/Bamboo-0052CC?logo=bamboo&logoColor=white&style=for-the-badge" /> 
   <img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge" />  
+  <img alt="Exercism" src="https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=white&style=for-the-badge" />    
   <img alt="Grails" src="https://img.shields.io/badge/Grails-green?logo=grails&logoColor=white&style=for-the-badge" />
   <img alt="Groovy" src="https://img.shields.io/badge/Groovy-4298B8?logo=groovy&logoColor=white&style=for-the-badge" />   
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />     
