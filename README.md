@@ -37,6 +37,7 @@ Other things I use regularly:
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />   
   <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />    
   <img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white&style=for-the-badge" />  
+  <img alt="BrowserStack" src="https://img.shields.io/badge/BrowserStack-232F3E?logo=browserstack&logoColor=white&style=for-the-badge" />  
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge" />   
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />    
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
