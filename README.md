@@ -31,7 +31,7 @@ Current focus:
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
-Other things I use:
+Other things I use pretty regularly:
 
 <p>
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />   
