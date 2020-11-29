@@ -55,7 +55,7 @@ Things I use:
 Other things I've used in the last three years:
 
 <p> 
-  <img alt="Grails" src="https://img.shields.io/badge/Grails?logo=grails&logoColor=green&style=for-the-badge" />    
+  <!--<img alt="Grails" src="https://img.shields.io/badge/Grails?logo=grails&logoColor=green&style=for-the-badge" />    -->
   <img alt="Groovy" src="https://img.shields.io/badge/Groovy-4298B8?logo=groovy&logoColor=white&style=for-the-badge" />   
   <img alt="Oracle PL/SQL" src="https://img.shields.io/badge/Oracle PL/SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge" /> 
 </p>
