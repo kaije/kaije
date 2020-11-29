@@ -52,7 +52,8 @@ Other things I use:
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=NPM&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />   
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" />  
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />   
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />  
+  <img alt="SoapUI" src="https://img.shields.io/badge/SoapUI-FCDC00?logo=soapui&logoColor=white&style=for-the-badge" />   
   <img alt="Toggl" src="https://img.shields.io/badge/Toggl-E01B22?logo=toggl&logoColor=white&style=for-the-badge" />     
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge" />     
 </p>
