@@ -80,6 +80,7 @@ Other things I've used in the last three years:
   <img alt="Oracle PL/SQL" src="https://img.shields.io/badge/Oracle PL/SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge" />    
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />   
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />        
+  <img alt="Subversion" src="https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=white&style=for-the-badge" />  
 </p>
 
 In the dim, dark past (e.g. at university):
