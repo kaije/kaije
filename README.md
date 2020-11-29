@@ -57,7 +57,6 @@ Other things I use regularly:
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" />  
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-green?logo=selenium&logoColor=white&style=for-the-badge" />  
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />  
-  <img alt="SoapUI" src="https://img.shields.io/badge/SoapUI-FCDC00?logo=soapui&logoColor=white&style=for-the-badge" />   
   <img alt="Toggl" src="https://img.shields.io/badge/Toggl-E01B22?logo=toggl&logoColor=white&style=for-the-badge" />     
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge" />    
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />   
@@ -80,6 +79,7 @@ Other things I've used in the last three years:
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" />   
   <img alt="Oracle PL/SQL" src="https://img.shields.io/badge/Oracle PL/SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge" />    
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />   
+  <img alt="SoapUI" src="https://img.shields.io/badge/SoapUI-FCDC00?logo=soapui&logoColor=white&style=for-the-badge" />     
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />        
   <img alt="Subversion" src="https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=white&style=for-the-badge" />  
 </p>
