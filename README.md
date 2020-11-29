@@ -25,35 +25,31 @@ Current focus:
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />   
 </p>
 
-Other things I use:
-
-<p> 
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />    
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />  
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />  
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />   
-</p>
 <p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" /> 
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge" />  
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
+
+Other things I use:
 <p>
   <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />    
   <img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white&style=for-the-badge" />    
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />  
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />    
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" />  
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />  
-  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" />   
-  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white&style=for-the-badge" /> 
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" />     
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />  
+  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white&style=for-the-badge" />   
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />  
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />   
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />  
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=NPM&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />   
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" />  
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />   
   <img alt="Toggl" src="https://img.shields.io/badge/Toggl-E01B22?logo=toggl&logoColor=white&style=for-the-badge" />     
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge" />     
-</p>
-<p>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge" />  
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
 Other things I've used in the last three years:
