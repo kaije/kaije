@@ -28,6 +28,7 @@ Current focus:
 </p>
 
 Other things I use:
+
 <p>
   <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />    
   <img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white&style=for-the-badge" />  
@@ -64,6 +65,16 @@ Other things I've used in the last three years:
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" />   
   <img alt="Oracle PL/SQL" src="https://img.shields.io/badge/Oracle PL/SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge" />  
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />      
+</p>
+
+In the dim, dark past (e.g. at university):
+
+<p> 
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" /> 
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c++&logoColor=white&style=for-the-badge" />
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge" />     
+  <img alt="Perl" src="https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white&style=for-the-badge" />     
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />      
 </p>
 
 <!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaije&theme=vue-dark) -->
