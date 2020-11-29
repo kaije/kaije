@@ -54,6 +54,7 @@ Other things I use regularly:
   <img alt="Pluralsight" src="https://img.shields.io/badge/Pluralsight-F15B2A?logo=pluralsight&logoColor=white&style=for-the-badge" />   
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />   
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" />  
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-green?logo=selenium&logoColor=white&style=for-the-badge" />  
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />  
   <img alt="SoapUI" src="https://img.shields.io/badge/SoapUI-FCDC00?logo=soapui&logoColor=white&style=for-the-badge" />   
   <img alt="Toggl" src="https://img.shields.io/badge/Toggl-E01B22?logo=toggl&logoColor=white&style=for-the-badge" />     
