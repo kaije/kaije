@@ -90,6 +90,8 @@ In the dim, dark past (e.g. at university):
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />      
 </p>
 
+## Stats
+
 <!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaije&theme=vue-dark) -->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kaije&theme=vue-dark&show_icons=true&count_private=true)
