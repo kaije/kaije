@@ -31,7 +31,7 @@ Current focus:
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
-Things I've used recently:
+Used recently:
 
 <p>
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />   
@@ -61,7 +61,7 @@ Things I've used recently:
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />   
 </p>
 
-Other things I've used in the last three years:
+Used in the last three years:
 
 <p> 
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" /> 
@@ -83,7 +83,7 @@ Other things I've used in the last three years:
   <img alt="Subversion" src="https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=white&style=for-the-badge" />  
 </p>
 
-In the dim, dark past (e.g. at university):
+Used in the dim, dark past (e.g. at university):
 
 <p> 
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" /> 
