@@ -64,7 +64,7 @@ Other things I've used in the last three years:
 </p>
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />  
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />  
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />  
 </p>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaije&theme=vue-dark)
