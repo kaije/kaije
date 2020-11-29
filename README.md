@@ -24,6 +24,6 @@ Here are some ideas to get you started:
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
 </p>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaije&theme=vue-dark&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaije&theme=vue-dark&hide=css&langs_count=3)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kaije&theme=vue-dark&show_icons=true&count_private=true)
