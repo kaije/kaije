@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Things I use:
 <p> 
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />  
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />  
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />  
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />  
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />  
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />  
@@ -31,9 +31,11 @@ Things I use:
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />  
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />  
 </p>
 <p>
   <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />    
+  <img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white&style=for-the-badge" />    
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />  
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" />  
@@ -43,6 +45,7 @@ Things I use:
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />   
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" />  
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />   
+  <img alt="Toggl" src="https://img.shields.io/badge/Toggl-E01B22?logo=toggl&logoColor=white&style=for-the-badge" />     
 </p>
 <p>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge" />  
