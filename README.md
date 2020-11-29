@@ -66,8 +66,9 @@ Other things I've used in the last three years:
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />  
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />  
 </p>
-
 <p>
+  <img alt="Bamboo" src="https://img.shields.io/badge/Bamboo-0052CC?logo=bamboo&logoColor=white&style=for-the-badge" />   
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />     
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />   
 </p>
 
