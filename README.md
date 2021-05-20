@@ -22,7 +22,9 @@ Current focus:
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />  
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />   
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />  
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />  
   <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white&style=for-the-badge" />   
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />   
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />   
 </p>
 
@@ -78,8 +80,7 @@ Used in the last three years:
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" />   
   <img alt="Oracle PL/SQL" src="https://img.shields.io/badge/Oracle PL/SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge" />    
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />   
-  <img alt="SoapUI" src="https://img.shields.io/badge/SoapUI-FCDC00?logo=soapui&logoColor=white&style=for-the-badge" />     
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />        
+  <img alt="SoapUI" src="https://img.shields.io/badge/SoapUI-FCDC00?logo=soapui&logoColor=white&style=for-the-badge" />          
   <img alt="Subversion" src="https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=white&style=for-the-badge" />  
 </p>
 
