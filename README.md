@@ -14,7 +14,7 @@ I'm currently working on building up a public dev portfolio here on GitHub, but 
 
 I'm currently focused on:
 
-- Learning more about Developer Portals, particularly Spotify's Backstage
+- Learning more about developer portals, particularly Spotify's Backstage
 - Technical writing, better documentation, and docs like code
 - Exploring other cloud providers including GCP and Azure
 - CI/CD, DevOps and Site Reliability Engineering
