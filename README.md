@@ -13,6 +13,7 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />
   <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=cypress&logoColor=white&style=for-the-badge" />  
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />  
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" />
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" />  
