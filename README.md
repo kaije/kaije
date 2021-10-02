@@ -23,8 +23,8 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="Subversion" src="https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=white&style=for-the-badge" />
   <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" />
-  <img alt="Oracle PL/SQL" src="https://img.shields.io/badge/Oracle PL/SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
   <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge" />
+  <img alt="Oracle PL/SQL" src="https://img.shields.io/badge/Oracle PL/SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />  
   <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />    
 </p>
