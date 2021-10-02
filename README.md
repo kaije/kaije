@@ -22,7 +22,7 @@
 - CI/CD, DevOps and site reliability engineering
 - Effective monitoring & telemetry
 - Mastering Kotlin and TypeScript
-- Trying out C#
+- Venturing into .NET and C#
 - Levelling up on Linux 🐧
 
 ❔ When I'm not doing dev stuff, I'm:
