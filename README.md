@@ -7,7 +7,7 @@
 💻 I'm currently working on building up a public dev portfolio, but here are a few of the things I've done recently in my day job:
 
 - Built and deployed several serverless functions using Kotlin, the [Serverless](https://www.serverless.com/) framework and AWS Lambda
-- Helped design and deploy a cost-efficient, cloud-based infrastructure for running scheduled functional tests on our private hosts using [Browserstack Local Testing with Automate](https://www.browserstack.com/local-testing/automate), AWS Lambda, and ECS Fargate
+- Helped architect, build and deploy a cost-efficient, cloud-based infrastructure for running scheduled functional tests on our private hosts using [Browserstack Local Testing with Automate](https://www.browserstack.com/local-testing/automate), AWS Lambda, and ECS Fargate
 - Built a custom web component using the Stencil.js framework, deployed it to AWS S3 and CloudFront, and embedded the result in our staff portal
 - Helped enforce appropriate data retention policies by automating data cleanup across our AWS S3 and DynamoDB infrastructure
 - Helped implement and evolve our CI/CD pipelines in Bitbucket
@@ -15,7 +15,7 @@
 
 🎯 I'm currently focused on:
 
-- Getting started with open source contributions on projects of interest
+- Getting started with contributing to open source projects of interest
 - Learning more about developer portals, particularly Spotify's [Backstage](https://backstage.io/)
 - Technical writing, better documentation, and 'docs like code'
 - Exploring other cloud service providers including GCP and Azure
