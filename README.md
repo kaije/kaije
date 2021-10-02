@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 
 
-Hi there, I'm Kelly.
+Hi there, I'm Kelly. :wave:
 
 I'm a full stack developer from Brisbane, Australia.
 
