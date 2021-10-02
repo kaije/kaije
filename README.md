@@ -26,7 +26,7 @@ I'm currently focused on:
 When I'm not doing dev stuff, I'm:
 
 - 📚 Reading (I track this over on [Goodreads](https://www.goodreads.com/user/show/5689474-kelly-farlow))
-- :de: Attempting to learn German to at least a B2 level (it's going very, very slowly)
+- :de: Attempting to learn German to at least a [B2 level](https://www.goethe.de/en/spr/kup/kon/stu.html) (it's going very, very slowly)
 - ✈️🌏 Travelling (currently on hold due to the pandemic, but hopefully not for much longer)
 
 ### Languages, Platforms & Tools
