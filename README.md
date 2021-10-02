@@ -4,7 +4,7 @@
 
 ## Hey there! I'm Kelly, a full stack developer from Brisbane Australia.
 
-### 💻 I'm currently working on building up a public dev portfolio here on GitHub, but here are a few of the things I've done recently in my day job:
+💻 I'm currently working on building up a public dev portfolio here on GitHub, but here are a few of the things I've done recently in my day job:
 
 - Built and deployed several serverless functions using Kotlin, the [Serverless](https://www.serverless.com/) framework and AWS Lambda
 - Helped design and deploy a cost-efficient, cloud-based infrastructure for running scheduled functional tests on our private hosts using [Browserstack Local Testing with Automate](https://www.browserstack.com/local-testing/automate), AWS Lambda, and ECS Fargate
@@ -13,7 +13,7 @@
 - Helped implement and evolve our CI/CD pipelines in Bitbucket
 - Written a _lot_ of documentation for various audiences - which is totally fine, because I happen to love writing documentation!
 
-### 🎯 I'm currently focused on:
+🎯 I'm currently focused on:
 
 - Getting started with open source contributions on projects of interest
 - Learning more about developer portals, particularly Spotify's Backstage
@@ -25,7 +25,7 @@
 - Trying out C#
 - Levelling up on Linux 🐧
 
- ### When I'm not doing dev stuff, I'm:
+❔ When I'm not doing dev stuff, I'm:
 
 - 📚👀 Reading
 - 💬:de: Attempting to learn German to at least a [B2 level](https://www.goethe.de/en/spr/kup/kon/stu.html) (it's going very, very slowly)
