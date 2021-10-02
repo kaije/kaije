@@ -6,7 +6,7 @@ Hey there! I'm Kelly, a full stack developer from Brisbane Australia.
 
 I'm currently working on building up a public dev portfolio here on GitHub, but here are a few of the things I've done recently in my day job:
 
-- Built and deployed several serverless functions using Kotlin, [the Serverless Framework](https://www.serverless.com/) and AWS Lambda
+- Built and deployed several serverless functions using Kotlin, the [Serverless](https://www.serverless.com/) framework and AWS Lambda
 - Helped design and deploy a cost-efficient, cloud-based infrastructure for running scheduled functional tests on our private hosts using [Browserstack Local Testing with Automate](https://www.browserstack.com/local-testing/automate), AWS Lambda, and ECS Fargate
 - Built a custom web component using the Stencil.js framework, deployed it to AWS S3 and CloudFront, and embedded the result in our staff portal
 - Helped enforce appropriate data retention policies by automating data cleanup across our AWS S3 and DynamoDB infrastructure
