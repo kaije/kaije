@@ -10,6 +10,7 @@
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-EC7211?logo=amazon-aws&logoColor=white&style=for-the-badge" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=cypress&logoColor=white&style=for-the-badge" />  
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
