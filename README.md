@@ -13,6 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 
+
+Hi there, I'm Kelly.
+
+I'm a full stack developer from Brisbane, Australia.
+
+## Current interests & learning focus:
+
+- Developer Portals (Backstage)
+- Technical writing, better documentation, docs like code
+- Extending cloud development skills beyond AWS by exploring GCP and Azure
+- CI/CD, DevOps and Site Reliability Engineering
+- Monitoring & Telemetry
+- Kotlin, TypeScript, C#
+- Linux
+
 ## Languages, Platforms & Tools
 
 Current focus:
