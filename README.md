@@ -15,7 +15,7 @@
 
 🎯 I'm currently focused on:
 
-- Getting started with contributing to open source projects of interest
+- Getting started on contributing to open source projects of interest
 - Learning more about developer portals, particularly Spotify's [Backstage](https://backstage.io/)
 - Technical writing, better documentation, and 'docs like code'
 - Exploring other cloud service providers including GCP and Azure
