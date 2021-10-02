@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hi there, I'm Kelly. I'm a full stack developer from Brisbane, Australia.
 
-A few of the things I've done recently in my day job:
+✔️ A few of the things I've done recently in my day job:
 
 - Built and deployed several serverless functions using the Serverless Framework and AWS Lambda
 - Helped develop and evolve my team's CI/CD pipelines using Bitbucket Pipelines
@@ -23,7 +23,7 @@ A few of the things I've done recently in my day job:
 - Built a custom web component using the Stencil.js framework, deployed it to AWS S3 and CloudFront, and embedded the result in our staff portal
 - Written vast amounts of documentation for various audiences - which is fine, because I actually like writing docs!
 
-I'm currently focused on:
+👀 I'm currently focused on:
 
 - Developer Portals and Spotify's Backstage
 - Technical writing, better documentation, docs like code
