@@ -30,4 +30,4 @@
 - 📚👀 Reading
 - 💬:de: Attempting to learn German to at least a [B2 level](https://www.goethe.de/en/spr/kup/kon/stu.html) (it's going very, very slowly)
 - 💪:sweat_smile: Trying to build enough upper body strength to someday do an unassisted pull-up
-- ✈️🌏 Travelling (16 countries so far - currently on hold due to the pandemic, but hopefully not for much longer!)
+- ✈️🌏 Travelling (16 countries so far, but currently on hold due to the pandemic - hopefully not for much longer!)
