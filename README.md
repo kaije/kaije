@@ -16,10 +16,10 @@
 🎯 I'm currently focused on:
 
 - Getting started with open source contributions on projects of interest
-- Learning more about developer portals, particularly Spotify's Backstage
+- Learning more about developer portals, particularly Spotify's [Backstage](https://backstage.io/)
 - Technical writing, better documentation, and 'docs like code'
 - Exploring other cloud providers including GCP and Azure
-- CI/CD, DevOps and Site Reliability Engineering
+- CI/CD, DevOps and site reliability engineering
 - Effective monitoring & telemetry
 - Mastering Kotlin and TypeScript
 - Trying out C#
@@ -30,4 +30,4 @@
 - 📚👀 Reading
 - 💬:de: Attempting to learn German to at least a [B2 level](https://www.goethe.de/en/spr/kup/kon/stu.html) (it's going very, very slowly)
 - 💪:sweat_smile: Trying to build enough upper body strength to someday do an unassisted pull-up
-- ✈️🌏 Travelling (currently on hold due to the pandemic, but hopefully not for much longer!)
+- ✈️🌏 Travelling (16 countries so far - currently on hold due to the pandemic, but hopefully not for much longer!)
