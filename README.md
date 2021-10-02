@@ -9,6 +9,7 @@ I'm currently working on building up a public dev portfolio here on GitHub, but 
 - Built and deployed several serverless functions using Kotlin, [the Serverless Framework](https://www.serverless.com/) and AWS Lambda
 - Helped design and deploy a cost-efficient, cloud-based infrastructure for running scheduled functional tests on our private hosts using BrowserStack, AWS Lambda, and ECS Fargate
 - Built a custom web component using the Stencil.js framework, deployed it to AWS S3 and CloudFront, and embedded the result in our staff portal
+- Helped enforce appropriate data retention policies by automating data cleanup across our AWS S3 and DynamoDB infrastructure
 - Helped implement and evolve our CI/CD pipelines in Bitbucket
 - Written a _lot_ of documentation for various audiences - which is totally fine, because I happen to love writing documentation!
 
