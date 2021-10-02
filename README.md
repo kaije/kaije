@@ -18,7 +18,7 @@
 - Getting started with open source contributions on projects of interest
 - Learning more about developer portals, particularly Spotify's [Backstage](https://backstage.io/)
 - Technical writing, better documentation, and 'docs like code'
-- Exploring other cloud providers including GCP and Azure
+- Exploring other cloud service providers including GCP and Azure
 - CI/CD, DevOps and site reliability engineering
 - Effective monitoring & telemetry
 - Mastering Kotlin and TypeScript
