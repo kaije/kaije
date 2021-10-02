@@ -17,7 +17,7 @@ I'm currently focused on:
 
 - Getting started with open source contributions on projects of interest
 - Learning more about developer portals, particularly Spotify's Backstage
-- Technical writing, better documentation, and docs like code
+- Technical writing, better documentation, and 'docs like code'
 - Exploring other cloud providers including GCP and Azure
 - CI/CD, DevOps and Site Reliability Engineering
 - Effective monitoring & telemetry
