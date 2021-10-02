@@ -9,6 +9,7 @@
 <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-EC7211?logo=amazon-aws&logoColor=white&style=for-the-badge" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />
   <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=cypress&logoColor=white&style=for-the-badge" />  
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
