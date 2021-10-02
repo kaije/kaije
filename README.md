@@ -27,4 +27,5 @@ When I'm not doing dev stuff, I'm:
 
 - 📚👀 Reading (I track this over on [Goodreads](https://www.goodreads.com/review/list/5689474?shelf=read))
 - 💬:de: Attempting to learn German to at least a [B2 level](https://www.goethe.de/en/spr/kup/kon/stu.html) (it's going very, very slowly)
+- 💪:sweat_smile: Trying to build enough upper body strength to someday do an unassisted pull-up
 - ✈️🌏 Travelling (currently on hold due to the pandemic, but hopefully not for much longer)
