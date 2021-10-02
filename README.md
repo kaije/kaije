@@ -7,7 +7,7 @@
 💻 I'm currently working on building up a public dev portfolio here on GitHub, but here are a few of the things I've worked with recently in my day job:
 
 <p>
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazon-aws&logoColor=orange&style=for-the-badge" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-EC7211?logo=amazon-aws&logoColor=white&style=for-the-badge" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring&logoColor=white&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
