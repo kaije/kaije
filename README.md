@@ -2,7 +2,7 @@
 **kaije/kaije** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hi there! I'm Kelly, a full stack developer from Brisbane Australia.
+Hey there! I'm Kelly, a full stack developer from Brisbane Australia.
 
 I'm currently working on building up a public dev portfolio here on GitHub, but here are a few of the things I've done recently in my day job:
 
@@ -27,7 +27,7 @@ I'm currently focused on:
 
 When I'm not doing dev stuff, I'm:
 
-- 📚👀 Reading (I track this over on [Goodreads](https://www.goodreads.com/review/list/5689474?shelf=read))
+- 📚👀 Reading
 - 💬:de: Attempting to learn German to at least a [B2 level](https://www.goethe.de/en/spr/kup/kon/stu.html) (it's going very, very slowly)
 - 💪:sweat_smile: Trying to build enough upper body strength to someday do an unassisted pull-up
 - ✈️🌏 Travelling (currently on hold due to the pandemic, but hopefully not for much longer!)
