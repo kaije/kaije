@@ -13,13 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome
+Hi there, I'm Kelly. I'm a full stack developer from Brisbane, Australia.
 
-Hi there, I'm Kelly. :wave:
-
-I'm a full stack developer from Brisbane, Australia.
-
-## Current interests & learning focus:
+### Current interests & learning focus:
 
 - Developer Portals (Backstage)
 - Technical writing, better documentation, docs like code
@@ -29,6 +25,6 @@ I'm a full stack developer from Brisbane, Australia.
 - Kotlin, TypeScript, C#
 - Linux
 
-## Languages, Platforms & Tools
+### Languages, Platforms & Tools
 
 
