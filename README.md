@@ -39,7 +39,6 @@
 - Technical writing, better documentation, and 'docs like code'
 - Exploring other cloud service providers including GCP and Azure
 - CI/CD, DevOps and site reliability engineering
-- Effective monitoring & telemetry
 - Mastering Kotlin and TypeScript
 - Venturing into .NET and C#
 - Levelling up on Linux 🐧
