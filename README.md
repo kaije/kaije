@@ -20,6 +20,7 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white&style=for-the-badge" /> 
+  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />      
   <img alt="Oracle PL/SQL" src="https://img.shields.io/badge/Oracle PL/SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
   <img alt="BrowserStack" src="https://img.shields.io/badge/BrowserStack-232F3E?logo=browserstack&logoColor=white&style=for-the-badge" />  
@@ -29,7 +30,6 @@
   <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge" />  
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />  
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge" />
-  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />    
 </p>
   
 🎯 I'm currently focused on:
