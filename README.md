@@ -39,6 +39,7 @@
 - Learning more about developer portals, particularly Spotify's [Backstage](https://backstage.io/)
 - Technical writing, better documentation, and 'docs like code'
 - Venturing into .NET and C#
+- Exploring other cloud service providers (GCP and Azure)
 - Levelling up on Linux 🐧
 
 ❔ When I'm not doing dev stuff, I'm:
