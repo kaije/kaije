@@ -35,11 +35,9 @@
 🎯 I'm currently focused on:
 
 - Getting started on contributing to open source projects of interest
+- Mastering Kotlin and TypeScript
 - Learning more about developer portals, particularly Spotify's [Backstage](https://backstage.io/)
 - Technical writing, better documentation, and 'docs like code'
-- Exploring other cloud service providers including GCP and Azure
-- CI/CD, DevOps and site reliability engineering
-- Mastering Kotlin and TypeScript
 - Venturing into .NET and C#
 - Levelling up on Linux 🐧
 
