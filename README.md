@@ -6,7 +6,7 @@
 
 I'm Kelly, a full stack developer from Brisbane Australia.
   
-Current interests:
+I'm currently focused on:
 
 - Contributing to open source projects of interest
 - Kotlin and TypeScript
