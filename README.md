@@ -4,7 +4,7 @@
 
 ## Hey there! I'm Kelly, a full stack developer from Brisbane Australia.
 
-💻 I'm currently working on building up a public dev portfolio here on GitHub, but here are a few of the things I've worked with recently in my day job:
+<--💻 I'm currently working , but here are a few of the things I've worked with recently in my day job:
 
 <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-EC7211?logo=amazon-aws&logoColor=white&style=for-the-badge" />
@@ -30,19 +30,17 @@
   <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge" />  
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />  
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge" />
-</p>
+</p>-->
   
 🎯 I'm currently focused on:
 
-- Getting started on contributing to open source projects of interest
-- Mastering Kotlin and TypeScript
+- Contributing to open source projects of interest
+- Kotlin and TypeScript
 - Learning more about developer portals, particularly Spotify's [Backstage](https://backstage.io/)
-- Technical writing, better documentation, and 'docs like code'
+- Technical writing, better documentation, and docs like code
 - Venturing into .NET and C#
-- Exploring other cloud service providers (GCP and Azure)
-- Levelling up on Linux 🐧
 
-❔ When I'm not doing dev stuff, I'm:
+❔ When I'm not working, I'm:
 
 - 📚👀 Reading
 - 💬:de: Attempting to learn German to at least a [B2 level](https://www.goethe.de/en/spr/kup/kon/stu.html)
