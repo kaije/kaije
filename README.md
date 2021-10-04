@@ -32,7 +32,7 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge" />
 </p>-->
   
-🎯 I'm currently focused on:
+I'm currently focused on:
 
 - Contributing to open source projects of interest
 - Kotlin and TypeScript
@@ -40,7 +40,7 @@
 - Technical writing, better documentation, and docs like code
 - Venturing into .NET and C#
 
-❔ When I'm not working, I'm:
+When I'm not working, I'm:
 
 - 📚👀 Reading
 - 💬:de: Attempting to learn German to at least a [B2 level](https://www.goethe.de/en/spr/kup/kon/stu.html)
