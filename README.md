@@ -5,14 +5,13 @@
 ## Hey there!
 
 I'm Kelly, a full stack developer from Brisbane Australia.
-  
+
 I'm currently focused on:
 
-- Contributing to open source projects of interest
 - Kotlin and TypeScript
+- Venturing into .NET and C#
 - Learning more about developer portals, particularly Spotify's [Backstage](https://backstage.io/)
 - Technical writing, better documentation, and docs like code
-- Venturing into .NET and C#
 
 When I'm not doing dev-related stuff, I'm:
 
