@@ -4,7 +4,7 @@
 
 ## Hey there! I'm Kelly, a full stack developer from Brisbane Australia.
 
-<--💻 I'm currently working , but here are a few of the things I've worked with recently in my day job:
+<!--💻 I'm currently working , but here are a few of the things I've worked with recently in my day job:
 
 <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-EC7211?logo=amazon-aws&logoColor=white&style=for-the-badge" />
